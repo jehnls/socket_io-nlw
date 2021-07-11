@@ -1,0 +1,8 @@
+[] Gerencia quando um usauaro desconecta
+[] Remover da lista quando o atende para de fazer o atendimento
+
+# Milhas extra - Fazer coisa além do produzido 
+
+[] Ver a documentação do WS (socket.io)
+[] Ver como trabalhar com salas
+[] Aprimora o chat.
